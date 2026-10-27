@@ -1,7 +1,8 @@
 # AGENTS.md
 
 ## State
-- 專案語言為 Python，以 conda 管理套件，環境名稱為 `iem_python`。
+- 專案所使用的程式語言為 Python。
+- 使用 conda 管理 Python 套件，Conda 環境名稱為 `iem_python`。
 - Repo is newly initialized: only `.gitignore` (Python template) is committed. No source, README, manifest, or toolchain config exists yet.
 - Do not assume a framework or test runner. Check what was added before running commands.
 
